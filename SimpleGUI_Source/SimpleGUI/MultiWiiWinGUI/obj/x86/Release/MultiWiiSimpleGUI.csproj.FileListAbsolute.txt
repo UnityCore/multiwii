@@ -1,0 +1,37 @@
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\bin\Release\optionsconfig21.xml
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\bin\Release\MultiWiiWinGUI.exe.config
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\bin\Release\MultiWiiWinGUI.exe.manifest
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\bin\Release\MultiWiiWinGUI.application
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\bin\Release\MultiWiiWinGUI.exe
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\bin\Release\MultiWiiWinGUI.pdb
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\bin\Release\System.Drawing.dll
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\MultiWiiSimpleGUI.frmAbout.resources
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\MultiWiiSimpleGUI.MWGUIControls.MWGUIControlsResources.resources
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\MultiWiiSimpleGUI.mainGUI.resources
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\MultiWiiSimpleGUI.Properties.Resources.resources
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\MultiWiiWinGUI.TrustInfo.xml
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\MultiWiiWinGUI.exe.manifest
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\MultiWiiWinGUI.application
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\MultiWiiWinGUI.exe
+C:\Users\Sputnik\Desktop\WinGui2 - Copy - Copy\MultiWiiWinGUI\obj\x86\Release\MultiWiiWinGUI.pdb
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\bin\Release\optionsconfig21.xml
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\bin\Release\MultiWiiWinGUI.exe.config
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\bin\Release\MultiWiiWinGUI.exe.manifest
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\bin\Release\MultiWiiWinGUI.application
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\bin\Release\MultiWiiWinGUI.exe
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\bin\Release\MultiWiiWinGUI.pdb
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\MultiWiiSimpleGUI.frmAbout.resources
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\MultiWiiSimpleGUI.MWGUIControls.MWGUIControlsResources.resources
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\MultiWiiSimpleGUI.mainGUI.resources
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\MultiWiiSimpleGUI.Properties.Resources.resources
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\MultiWiiWinGUI.TrustInfo.xml
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\MultiWiiWinGUI.exe.manifest
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\MultiWiiWinGUI.application
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\MultiWiiWinGUI.exe
+C:\Users\Sputnik\Desktop\SimpleGUI\MultiWiiWinGUI\obj\x86\Release\MultiWiiWinGUI.pdb
