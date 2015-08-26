@@ -1,1 +1,0 @@
-/dev/tty.usbserial-A7030YH6;115200
