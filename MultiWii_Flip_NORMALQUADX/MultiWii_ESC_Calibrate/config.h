@@ -1033,7 +1033,7 @@
        Read How To at http://code.google.com/p/multiwii/wiki/ESCsCalibration */
     #define ESC_CALIB_LOW  MINCOMMAND
     #define ESC_CALIB_HIGH 2000
-    //#define ESC_CALIB_CANNOT_FLY  // uncomment to activate
+    #define ESC_CALIB_CANNOT_FLY  // uncomment to activate
 
   /****           internal frequencies                             ****/
     /* frequenies for rare cyclic actions in the main loop, depend on cycle time
